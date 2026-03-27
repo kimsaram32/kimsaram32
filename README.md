@@ -1,3 +1,3 @@
 # Kimsaram32
 
-Learning DevOps
+Software engineer, programmer, passionate learner, and Emacs tinkerer
