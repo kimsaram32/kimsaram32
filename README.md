@@ -1,3 +1,3 @@
 # Kimsaram32
 
-Software engineer, programmer, passionate learner, and Emacs tinkerer
+Programmer, software engineer, passionate learner, and Emacs tinkerer
